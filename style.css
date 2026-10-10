@@ -1,0 +1,46 @@
+body{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+     background-image: url(../images/eyestetix-studio-m0EzHtexapU-unsplash.jpg);
+      background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-color: #111;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     font-size: 30px;
+     color: white;
+     background-size: cover;
+}
+
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+    font-size: 30px;
+}
+
+button {
+    color : #016f32;
+    width : 150px;
+    background :goldenrod;
+    padding: 6px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 6px;
+}
+
+.game-container {
+    width: 400px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.55);
+    box-sizing: border-box;
+}
+.game-container {
+    text-align: center;
+}
